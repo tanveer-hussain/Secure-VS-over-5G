@@ -2,7 +2,7 @@
 ### Efficient and Privacy Preserving Video Transmission in 5G-Enabled IoT Surveillance Networks: Current Challenges and Future Directions
 
 # Notice
-The codes will be uploaded after the acceptance of the paper
+The codes will be uploaded after the acceptance of the paper that is under revision
 
 # Citation
 <pre>
